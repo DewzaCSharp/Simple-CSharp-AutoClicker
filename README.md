@@ -1,1 +1,1 @@
-# AutoClicker
+# Simple C# Console AutoClicker
